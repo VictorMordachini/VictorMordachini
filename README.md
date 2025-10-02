@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Victor Mordachini!
+# 👋 Olá, eu sou o Victor!
 
 Desenvolvedor Java com paixão por construir soluções robustas e compartilhar conhecimento. Atualmente, estou focado em aprofundar meus estudos no ecossistema Spring e explorar arquiteturas de software escaláveis.
 
